@@ -20,3 +20,27 @@ Tendo como base os conceitos e exemplos sobre Padrões de Projeto e Interface Gr
 - Na classe ImovelDAO
 ##### Padrão Builder:
 - Nas entidades
+### Resolução:
+
+##### Tela de login
+![Tela de login](https://github.com/wgustavosantos/Projeto-E-moveis/blob/main/Imagens%20do%20projeto/Login.PNG)
+
+##### Tela de inicial
+![Tela de inicial](https://github.com/wgustavosantos/Projeto-E-moveis/blob/main/Imagens%20do%20projeto/Tela%20inicial.PNG)
+
+##### Tela de cadastro
+![Tela de cadastro](https://github.com/wgustavosantos/Projeto-E-moveis/blob/main/Imagens%20do%20projeto/cadastro.png)
+
+##### Tela de consulta
+![Tela de consulta](https://github.com/wgustavosantos/Projeto-E-moveis/blob/main/Imagens%20do%20projeto/Consulta.PNG)
+
+##### Tela de atualização por Id ou selecionando na tabela
+![Tela de atualização](https://github.com/wgustavosantos/Projeto-E-moveis/blob/main/Imagens%20do%20projeto/Atualiza%C3%A7%C3%A3o.PNG)
+![Tela de atualização confirmação](https://github.com/wgustavosantos/Projeto-E-moveis/blob/main/Imagens%20do%20projeto/Confirma%C3%A7%C3%A3o%20de%20atualiza%C3%A7%C3%A3o.PNG)
+
+##### Tela de Exclusão por Id ou selecionando na tabela
+![Tela de exclusão por id](https://github.com/wgustavosantos/Projeto-E-moveis/blob/main/Imagens%20do%20projeto/Condicoes.PNG)
+
+
+
+
