@@ -1,8 +1,7 @@
-UNIVERSIDADE FEDERAL DO PARÁ – UFPA
-CAMPUS UNIVERSITÁRIO DO BAIXO TOCANTINS – CUNTINS
-FACULDADE DE SISTEMAS DE INFORMAÇÃO – FASI
-BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+# UNIVERSIDADE FEDERAL DO PARÁ – UFPA
+# FACULDADE DE SISTEMAS DE INFORMAÇÃO
+# BACHARELADO EM SISTEMAS DE INFORMAÇÃO
 
-Programação de Computadores II - Prof. Esp. Eliezer Miranda Coelho
+## Programação de Computadores II - Prof. Esp. Eliezer Miranda Coelho
 
-Trabalho Acadêmico - Programação de Computadores 2
+### Trabalho Acadêmico - Programação de Computadores 2
